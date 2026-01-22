@@ -1,0 +1,5 @@
+train: C:/Users/Rajesh/projects/train
+val: C:/Users/Rajesh/projects/val
+
+nc: 3
+names: ['helmet', 'jacket', 'hat']
